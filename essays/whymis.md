@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why did I choose MIS?"
+title: "Introducing Myself"
 date: 2024-01-18
 published: true
 labels:
@@ -9,8 +9,11 @@ labels:
   - Q/A
 ---
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+<h3>Introduction</h3>
+I am Darren Andre Estal majoring in Management Information System and Human Resources. I am a second year in Shidler College of Business and I want to graduate with a Bachelor's degree (I am however deciding if I should do a graduates program). I find myself around so many technologies, especially since I do game a lot, but before that I use to do a lot of editing because I used to do photography. That brings me to why I am surrounded with computers today.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+<h3>Why did I choose MIS?</h3>
+I chose MIS because I want to be the ones solving the problems and suggesting edits. I am actually quit unsure why, but I just want to earn the skills of Information Systems. Some skills that I want to learn are coding and adapting to different systems. I am very interested in learning different ways of solving an issue  in the business aspect.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+<h3>Why do I want to double major in Human Resources?</h3>
+I feel that in a way MIS has a role in how employees work. When employers hire, they can look at data and make sense of it to know what type of people, where, when to hire. I feel that information is very powerful in making a company run successfully. 
