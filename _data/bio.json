@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Darren Andre Estal", "url": "http://github.com/darrenandreestal" },
-      { "network": "linkedin", "username": "Darren Andre Estal", "url": "www.linkedin.com/in/darren-andre-estal-a26a14275" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Darren Andre Estal", "url": "http://linkedin.com/in/darrenandreestal" }
     ]
   },
   "interests": [
