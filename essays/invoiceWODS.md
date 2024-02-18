@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "E3: Preparing for WODs Technical Essay"
-date: 2024-01-30
+date: 2024-02-17
 published: true
 labels:
   - E3
