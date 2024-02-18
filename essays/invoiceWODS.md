@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 <h3> Invoice 1 Overview</h3>
-For this WOD we created a sales receipt for a sale that contains five different products. We made sure that the things on the receipt were not hard coded into the file. <a href src="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html">Click here</a> for further information about the WOD and <a href serc="">click here</a> for my WOD page.
+For this WOD we created a sales receipt for a sale that contains five different products. We made sure that the things on the receipt were not hard coded into the file. <a href src="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html">Click here</a> for further information about the WOD and <a href serc="https://github.com/darrenandreestal/ITM352_S24_repo/blob/71f08219e8144cb632485751e83e1e70aa8a0f62/WODs/Invoice1/invoice.html">click here</a> for my WOD page.
  
 
 <h3> My experience performing Invoice1</h3>
