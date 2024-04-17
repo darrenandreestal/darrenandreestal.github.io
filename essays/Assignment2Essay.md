@@ -11,12 +11,12 @@ labels:
 ---
 <h2> Overall Reflection</h2>
 <p>
-  Assignment 1 was a cumulative of things inputted together from this semester implementing code to make a dynamic website with products to purchase and calculate the total in an invoice. In my website I had to implement <a href="https://dport96.github.io/ITM352/morea/130.Assignment1/experience-Assignment1.html">IR1</a>, which was to track the total quantity of each item sold. I had many struggles, some successes to work this website out, and some things that did not quite go right.
+  Assignment 1 was a cumulative of things inputted together from this semester implementing code to make a dynamic website with products to purchase and calculate the total in an invoice. In my website I had to implement <a href="https://dport96.github.io/ITM352/morea/130.Assignment1/experience-Assignment1.html" target="_blank">IR1</a>, which was to track the total quantity of each item sold. I had many struggles, some successes to work this website out, and some things that did not quite go right.
 </p>
 
 <h3>My programming skills have greatly improved in the following ways:</h3>
 <p>
-  Reading <b>The Manual</b> using <a href="https://www.w3schools.com/">W3 Schools</a> helped me understand the basic things about the code and what they do, and their potential ways it could be used. 
+  Reading <b>The Manual</b> using <a href="https://www.w3schools.com/" target="_blank">W3 Schools</a> helped me understand the basic things about the code and what they do, and their potential ways it could be used. 
 </p>
 
 <p>
