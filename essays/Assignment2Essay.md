@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E5: Reflecting on Assignment 2 Technical Essay"
 date: 2024-04-29
-published: false
+published: true
 labels:
   - E5
   - Assignment2
