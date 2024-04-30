@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: "E5: Reflecting on Assignment 2 Technical Essay"
+date: 2024-04-29
+published: false
+labels:
+  - E5
+  - Assignment2
+  - Reflection
+---
+<h2> Overall Reflection</h2>
+
+Provide a brief introduction to the assignment along with a link to this page for further details
+What did you learn from this assignment?
+
+Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
+
+How did you get help when you needed it? What did you need help with?
+
+How was developing this assignment different than assignment #1?
+
+Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
+
+Describe what worked well with this project? What did not work well?
+
+If you could go back in time and do things differently, what would you do differently?
